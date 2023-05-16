@@ -1,0 +1,8 @@
+D:\probability10\probability10\bin\Debug\probability10.exe.config
+D:\probability10\probability10\bin\Debug\probability10.exe
+D:\probability10\probability10\bin\Debug\probability10.pdb
+D:\probability10\probability10\obj\Debug\probability10.csproj.AssemblyReference.cache
+D:\probability10\probability10\obj\Debug\probability10.csproj.SuggestedBindingRedirects.cache
+D:\probability10\probability10\obj\Debug\probability10.csproj.CoreCompileInputs.cache
+D:\probability10\probability10\obj\Debug\probability10.exe
+D:\probability10\probability10\obj\Debug\probability10.pdb
